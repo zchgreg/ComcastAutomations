@@ -25,7 +25,6 @@ bpart = f"<REPORT LINK>"
 MPS_links = [eccd, passing, design, task, closed, presale, bpart]
 start_time = time.time()
 
-a
 def sfDownload(export_url, export_name):
 
     download_dir = f"{os.getcwd()}"
